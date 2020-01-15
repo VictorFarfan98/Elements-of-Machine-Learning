@@ -20,7 +20,7 @@ def is_lychrel(number):
 
 
 cont = 0
-for i in range(10000):
+for i in range(10001):
     if is_lychrel(i):
         cont += 1
 
