@@ -1,15 +1,15 @@
 class Menu:
     def Sumar(self, x, y):
         """Retorna la suma entre 2 numeros. """
-        return x+y
+        return x + y
 
     def Restar(self, x, y):
         """Retorna la resta entre 2 numeros. """
-        return x-y
+        return x - y
 
     def Multiplicar(self, x, y):
         """Retorna la multiplicacion entre 2 numeros. """
-        return x*y
+        return x * y
 
     def binary(self, name, oper):
         print("Bienvenido, hoy vamos a hacer la operacion binaria: {}".format(name))
