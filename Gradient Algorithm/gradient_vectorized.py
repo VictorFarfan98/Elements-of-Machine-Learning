@@ -10,7 +10,6 @@ alpha = 0.01
 
 def cost(theta, X, y):
     n = len(X)
-
     predictions = X.dot(theta)
     return (n/2) * np.sum(np.square(predictions-y))
 
