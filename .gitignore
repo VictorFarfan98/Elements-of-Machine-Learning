@@ -1,2 +1,4 @@
 venv_eml/
 *.zip
+.vscode/
+.ipynb_checkpoints/
