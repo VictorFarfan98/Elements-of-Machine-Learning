@@ -2,3 +2,4 @@ venv_eml/
 *.zip
 .vscode/
 .ipynb_checkpoints/
+Neural Networks/.ipynb_checkpoints/
